@@ -2,8 +2,7 @@
 ### AI-Powered Environmental Awareness System for Deaf and Hard-of-Hearing Individuals
 
 <p align="center">
-  <img src="![Uploading image.png…]()
-" width="180"/>
+  <img src="logo.png" alt="SETU Logo" width="180">
 </p>
 
 > **Setu** (Sanskrit for *Bridge*) is an AI-powered assistive technology that bridges the gap between sound and awareness by converting critical environmental sounds into accessible visual and haptic alerts.
